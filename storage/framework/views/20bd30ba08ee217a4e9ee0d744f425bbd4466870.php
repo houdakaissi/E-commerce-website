@@ -1,0 +1,1 @@
+ <?php /**PATH /opt/lampp/htdocs/laravel-ecommerce-channel/resources/views/admin/categories/edit.blade.php ENDPATH**/ ?>
